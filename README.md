@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DouglasReiz
-- 👀 I’m interested in all from geek culture, a big fan of STAR WARS and DC COMICS
+- 👋 Hi, I’m @DouglasAlves
+- 👀 I’m interested in advance my programmer level
 - 🌱 I’m currently learning JAVA and database
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me, only in the email douglasreisalves02@gmail.com
