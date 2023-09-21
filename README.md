@@ -27,7 +27,6 @@ HTML, CSS, Laravel, SQL, PHP, Git
 ## Referência
 
  - [Veja meu portifólio](https://douglasreiz.github.io/beacademy-devstart-frontend-myportfolio/)
- - [Programa desenvolvido por mim](http://carteira-de-clientes.herokuapp.com)
  
  <div>
    <a href = "mailto:douglasreisalves02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
