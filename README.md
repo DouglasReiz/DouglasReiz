@@ -24,8 +24,6 @@ HTML, CSS, PHP, Laravel, Tailwind CSS, Bootstrap, SQL, Git
 ![Logo](https://img.icons8.com/color/48/000000/git.png)
 
 ## Referência
-
- - [Veja meu portifólio]()
  -  <a href = "https://portifolio-douglasreiz.netlify.app/" target="_blank">Veja meu Portifólio</a>
  
  <div>
