@@ -12,7 +12,7 @@
 
 
 ## 🛠 Habilidades
-HTML, CSS, Laravel, SQL, PHP, Git
+HTML, CSS, PHP, Laravel, Tailwind CSS, Bootstrap, SQL, Git
  
 ![Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![Logo](https://img.icons8.com/color/48/000000/css3.png)
@@ -20,13 +20,14 @@ HTML, CSS, Laravel, SQL, PHP, Git
 ![Logo](https://img.icons8.com/fluency/48/000000/laravel.png)
 ![Logo](https://img.icons8.com/color/48/000000/tailwind_css.png)
 ![Logo](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Logo](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
+![Logo](https://img.icons8.com/fluency/48/sql.png)
 ![Logo](https://img.icons8.com/color/48/000000/git.png)
 ![Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## Referência
 
- - [Veja meu portifólio](https://portifolio-douglasreiz.netlify.app/)
+ - [Veja meu portifólio]()
+ -  <a href = "https://portifolio-douglasreiz.netlify.app/" target="_blank">Veja meu Portifólio</a>
  
  <div>
    <a href = "mailto:douglasreisalves02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
