@@ -22,7 +22,6 @@ HTML, CSS, PHP, Laravel, Tailwind CSS, Bootstrap, SQL, Git
 ![Logo](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Logo](https://img.icons8.com/fluency/48/sql.png)
 ![Logo](https://img.icons8.com/color/48/000000/git.png)
-![Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## Referência
 
