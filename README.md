@@ -5,10 +5,6 @@
 
 ## Desenvolvedor FullStack 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DouglasReiz.DouglasReiz&"  />
-</div>
-
 ###
 
 <div align="center">
